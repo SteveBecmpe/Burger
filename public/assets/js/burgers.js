@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     console.info('DOM loaded');
   }
   // UPDATE
-  const changeBurgerBtns = document.querySelectorAll('.change-consume');
+  const changeBurgerBtns = document.querySelectorAll('.change-consumed');
 
   // Set up the event listener for the create button
   if (changeBurgerBtns) {
